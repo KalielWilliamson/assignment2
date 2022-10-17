@@ -1,0 +1,4 @@
+/results/nn_results/*
+/results/opt_results/*
+/visualizations/*
+/eda.ipynb
