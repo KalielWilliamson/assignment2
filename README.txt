@@ -1,6 +1,6 @@
 ## Instructions for running this code
 1. Clone the repository
-`git clone https://github.com/KalielWilliamson/supervised-learning-assignment.git`
+`git clone https://github.com/KalielWilliamson/assignment2.git`
 
 2. Navigate to the installed repository & install the requirements with pip
 `pip install -r requirements.txt`
